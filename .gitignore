@@ -1,0 +1,5 @@
+results/*/*
+!results/*/summary.csv
+__pycache__/
+*.pyc
+notes/
